@@ -1,14 +1,15 @@
 .jumbotron {
-    padding-top: 6rem;
-    background-color: #bcdcf1;
+    padding-top: 8rem;
+    background-color: #90c7ec;
 }
 
 #about {
     text-align: justify;
+    background-color: #ccebf1;
 }
 
-#projects {
-    background-color: #bcdcf1;
+#gallery {
+    background-color: #92b5cc;
 }
 
 footer {
@@ -16,5 +17,5 @@ footer {
 }
 
 section {
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
